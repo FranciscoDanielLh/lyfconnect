@@ -29,7 +29,7 @@ const Index4 = () => {
                 {/*=== Hero Content ===*/}
                 <div className="hero-content">
                   <span className="sub-title wow fadeInUp" data-wow-delay=".3s">
-                    Welcome to GoWilds
+                    Welcome to lyfconnect
                   </span>
                   <h1 className="wow fadeInDown" data-wow-delay=".5s">
                     Explore Dream Tour &amp; Travels

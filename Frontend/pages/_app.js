@@ -23,7 +23,7 @@ export default function App({ Component, pageProps }) {
           content="width=device-width, initial-scale=1, shrink-to-fit=no"
         />
         {/*====== Title ======*/}
-        <title>Gowilds - Tours and Travel React NextJS Template</title>
+        <title>lyfconnect - Tours and Travel React NextJS Template</title>
         {/*====== Favicon Icon ======*/}
         <link
           rel="shortcut icon"
@@ -38,7 +38,7 @@ export default function App({ Component, pageProps }) {
         {/*====== Flaticon css ======*/}
         <link
           rel="stylesheet"
-          href="assets/fonts/flaticon/flaticon_gowilds.css"
+          href="assets/fonts/flaticon/flaticon_lyfconnect.css"
         />
         {/*====== FontAwesome css ======*/}
         <link

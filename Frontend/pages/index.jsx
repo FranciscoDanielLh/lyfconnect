@@ -30,12 +30,11 @@ const Index = () => {
                     {/*=== Hero Content ===*/}
                     <div className="hero-content text-white">
                       <h1 data-animation="fadeInDown" data-delay=".4s">
-                        Travel &amp; Adventure Camping
+                        Discover a Personalized Travel Experience with lyf Connect
                       </h1>
                       <div className="text-button d-flex align-items-center">
                         <p data-animation="fadeInLeft" data-delay=".5s">
-                          Nunc et dui nullam aliquam eget velit. Consectetur
-                          nulla convallis viverra quisque eleifend
+                          Explore unique, tailor-made experiences that match your travel plans. With lyf Connect, travel becomes easy, affordable, and engaging.
                         </p>
                         <div
                           className="hero-button"
@@ -64,48 +63,6 @@ const Index = () => {
                 </div>
               </div>
             </div>
-            {/*=== Single Slider ===*/}
-            <div className="single-slider">
-              <div className="container-fluid">
-                <div className="row align-items-center">
-                  <div className="col-xl-6">
-                    {/*=== Hero Content ===*/}
-                    <div className="hero-content text-white">
-                      <h1 data-animation="fadeInDown" data-delay=".4s">
-                        Travel &amp; Adventure Tour
-                      </h1>
-                      <div className="text-button d-flex align-items-center">
-                        <p data-animation="fadeInLeft" data-delay=".5s">
-                          Nunc et dui nullam aliquam eget velit. Consectetur
-                          nulla convallis viverra quisque eleifend
-                        </p>
-                        <div
-                          className="hero-button"
-                          data-animation="fadeInRight"
-                          data-delay=".6s"
-                        >
-                          <Link legacyBehavior href="/about">
-                            <a className="main-btn primary-btn">
-                              Explore More
-                              <i className="fas fa-paper-plane" />
-                            </a>
-                          </Link>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="col-xl-6">
-                    {/*=== Hero Image ===*/}
-                    <div className="hero-image" data-animation="fadeInRight">
-                      <img
-                        src="assets/images/hero/hero-one_img-2.jpg"
-                        alt="Hero Image"
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
           </Slider>
         </div>
       </section>
@@ -118,15 +75,11 @@ const Index = () => {
               {/*=== About Content Box ===*/}
               <div className="about-content-box text-center mb-55 wow fadeInDown">
                 <div className="section-title mb-30">
-                  <span className="sub-title">About Company</span>
-                  <h2>We Are Most Funning Company About Travel &amp; Tours</h2>
+                  <span className="sub-title">About lyf Connect</span>
+                  <h2>Redefining Travel &amp; Coliving with Personalization</h2>
                 </div>
                 <p>
-                  Sit amet consectetur. Velit integer eu tincidunt scelerisque.
-                  Sodales volutpat neque fermentum malesuada scelerisque massa
-                  lacus. Ultrices eget leo cras odio blandit rhoncus eu. At
-                  feugiat condimentum massa integer iaculis sit sit. Sagittis
-                  vitae quis sed vitae congue
+                  lyf Connect redefines coliving and travel, creating a unique ecosystem where guests can explore, connect, and enjoy tailor-made packages. With real-time recommendations and a rewards system, we ensure an unforgettable experience that supports local attractions and maximizes your travel value.
                 </p>
               </div>
             </div>
@@ -144,16 +97,15 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Tent Camping Services</h4>
+                    <h4 className="title">Tailored Experiences</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
                   </div>
-                  <p>Set unde omnis estenatus voluptatem aperiae.</p>
+                  <p>Optimize your stay with packages personalized to your preferences and dates.</p>
                 </div>
               </div>
             </div>
-            {/*=== Features Image Item ===*/}
             <div className="single-features-item mb-40">
               <div className="img-holder">
                 <img
@@ -162,16 +114,15 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Trailers and RV Spots</h4>
+                    <h4 className="title">Real-Time Recommendations</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
                   </div>
-                  <p>Set unde omnis estenatus voluptatem aperiae.</p>
+                  <p>Connect with events and attractions aligned with your itinerary and community interests.</p>
                 </div>
               </div>
             </div>
-            {/*=== Features Image Item ===*/}
             <div className="single-features-item mb-40">
               <div className="img-holder">
                 <img
@@ -180,109 +131,19 @@ const Index = () => {
                 />
                 <div className="content">
                   <div className="text">
-                    <h4 className="title">Adventure and Climbing</h4>
+                    <h4 className="title">Earn Rewards</h4>
                     <a href="#" className="icon-btn">
                       <i className="far fa-arrow-right" />
                     </a>
                   </div>
-                  <p>Set unde omnis estenatus voluptatem aperiae.</p>
-                </div>
-              </div>
-            </div>
-            {/*=== Features Image Item ===*/}
-            <div className="single-features-item mb-40">
-              <div className="img-holder">
-                <img
-                  src="assets/images/features/feat-4.jpg"
-                  alt="Features Image"
-                />
-                <div className="content">
-                  <div className="text">
-                    <h4 className="title">Couple Camping or Cabin</h4>
-                    <a href="#" className="icon-btn">
-                      <i className="far fa-arrow-right" />
-                    </a>
-                  </div>
-                  <p>Set unde omnis estenatus voluptatem aperiae.</p>
-                </div>
-              </div>
-            </div>
-            {/*=== Features Image Item ===*/}
-            <div className="single-features-item mb-40">
-              <div className="img-holder">
-                <img
-                  src="assets/images/features/feat-1.jpg"
-                  alt="Features Image"
-                />
-                <div className="content">
-                  <div className="text">
-                    <h4 className="title">Tent Camping Services</h4>
-                    <a href="#" className="icon-btn">
-                      <i className="far fa-arrow-right" />
-                    </a>
-                  </div>
-                  <p>Set unde omnis estenatus voluptatem aperiae.</p>
-                </div>
-              </div>
-            </div>
-            {/*=== Features Image Item ===*/}
-            <div className="single-features-item mb-40">
-              <div className="img-holder">
-                <img
-                  src="assets/images/features/feat-2.jpg"
-                  alt="Features Image"
-                />
-                <div className="content">
-                  <div className="text">
-                    <h4 className="title">Trailers and RV Spots</h4>
-                    <a href="#" className="icon-btn">
-                      <i className="far fa-arrow-right" />
-                    </a>
-                  </div>
-                  <p>Set unde omnis estenatus voluptatem aperiae.</p>
-                </div>
-              </div>
-            </div>
-            {/*=== Features Image Item ===*/}
-            <div className="single-features-item mb-40">
-              <div className="img-holder">
-                <img
-                  src="assets/images/features/feat-3.jpg"
-                  alt="Features Image"
-                />
-                <div className="content">
-                  <div className="text">
-                    <h4 className="title">Adventure and Climbing</h4>
-                    <a href="#" className="icon-btn">
-                      <i className="far fa-arrow-right" />
-                    </a>
-                  </div>
-                  <p>Set unde omnis estenatus voluptatem aperiae.</p>
-                </div>
-              </div>
-            </div>
-            {/*=== Features Image Item ===*/}
-            <div className="single-features-item mb-40">
-              <div className="img-holder">
-                <img
-                  src="assets/images/features/feat-4.jpg"
-                  alt="Features Image"
-                />
-                <div className="content">
-                  <div className="text">
-                    <h4 className="title">Couple Camping or Cabin</h4>
-                    <a href="#" className="icon-btn">
-                      <i className="far fa-arrow-right" />
-                    </a>
-                  </div>
-                  <p>Set unde omnis estenatus voluptatem aperiae.</p>
+                  <p>Earn points with each booking to redeem for more adventures.</p>
                 </div>
               </div>
             </div>
           </Slider>
         </div>
       </section>
-      {/*====== End Hero Section ======*/}
+      {/*====== End About Section ======*/}
       {/*====== Start Booking Section ======*/}
       <section className="booking-section pt-60 pb-50">
         <div className="container">
@@ -292,7 +153,7 @@ const Index = () => {
               <div className="booking-content-box mb-50 wow fadeInLeft">
                 <div className="section-title mb-50">
                   <span className="sub-title">Availability</span>
-                  <h2>Booking Your Best Tour Camping Availability</h2>
+                  <h2>Reserve Your lyf Experience</h2>
                 </div>
                 <form className="booking-form">
                   <div className="row">
@@ -330,15 +191,11 @@ const Index = () => {
                     <div className="col-md-6">
                       <div className="form_group">
                         <select className="wide">
-                          <option data-display="Accommodations">
-                            Accommodations
-                          </option>
-                          <option value={1}>Classic Tent</option>
-                          <option value={1}>Forest Camping</option>
-                          <option value={1}>Small Trailer</option>
-                          <option value={1}>Tree House Tent</option>
-                          <option value={1}>Tent Camping</option>
-                          <option value={1}>Couple Tent</option>
+                          <option data-display="Preferences">Preferences</option>
+                          <option value={1}>Adventure</option>
+                          <option value={2}>Relaxation</option>
+                          <option value={3}>Cultural</option>
+                          <option value={4}>Nightlife</option>
                         </select>
                       </div>
                     </div>
@@ -362,6 +219,9 @@ const Index = () => {
                     </div>
                   </div>
                 </form>
+ 
+           
+
               </div>
             </div>
             <div className="col-lg-6">
@@ -1550,7 +1410,7 @@ const Index = () => {
                 {/*=== Footer Text ===*/}
                 <div className="footer-text">
                   <p>
-                    Copy@ 2023 <span style={{ color: "#F7921E" }}>GoWilds</span>
+                    Copy@ 2023 <span style={{ color: "#F7921E" }}>lyfconnect</span>
                     , All Right Reserved
                   </p>
                 </div>

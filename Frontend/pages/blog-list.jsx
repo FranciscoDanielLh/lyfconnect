@@ -213,7 +213,7 @@ const BlogList = () => {
                 </div>
               </div>
               {/*=== Pagination ===*/}
-              <ul className="gowilds-pagination wow fadeInDown mt-60 mb-30">
+              <ul className="lyfconnect-pagination wow fadeInDown mt-60 mb-30">
                 <li className="me-2">
                   <a href="#">
                     <i className="far fa-arrow-left" />

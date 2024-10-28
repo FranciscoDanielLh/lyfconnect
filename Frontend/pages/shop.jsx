@@ -616,7 +616,7 @@ const Shop = () => {
           </div>
           <div className="row">
             <div className="col-lg-12">
-              <ul className="gowilds-pagination wow fadeInUp text-center">
+              <ul className="lyfconnect-pagination wow fadeInUp text-center">
                 <li>
                   <a href="#">
                     <i className="far fa-arrow-left" />
