@@ -1,9 +1,9 @@
 @font-face {
-  font-family: "flaticon_gowilds";
-  src: url("./flaticon_gowilds.ttf?d0235de0bbc7ec3e6bca4c8fddee355a") format("truetype"), url("./flaticon_gowilds.woff?d0235de0bbc7ec3e6bca4c8fddee355a") format("woff"), url("./flaticon_gowilds.woff2?d0235de0bbc7ec3e6bca4c8fddee355a") format("woff2"), url("./flaticon_gowilds.eot?d0235de0bbc7ec3e6bca4c8fddee355a#iefix") format("embedded-opentype"), url("./flaticon_gowilds.svg?d0235de0bbc7ec3e6bca4c8fddee355a#flaticon_gowilds") format("svg");
+  font-family: "flaticon_lyfconnect";
+  src: url("./flaticon_lyfconnect.ttf?d0235de0bbc7ec3e6bca4c8fddee355a") format("truetype"), url("./flaticon_lyfconnect.woff?d0235de0bbc7ec3e6bca4c8fddee355a") format("woff"), url("./flaticon_lyfconnect.woff2?d0235de0bbc7ec3e6bca4c8fddee355a") format("woff2"), url("./flaticon_lyfconnect.eot?d0235de0bbc7ec3e6bca4c8fddee355a#iefix") format("embedded-opentype"), url("./flaticon_lyfconnect.svg?d0235de0bbc7ec3e6bca4c8fddee355a#flaticon_lyfconnect") format("svg");
 }
 i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
-  font-family: flaticon_gowilds !important;
+  font-family: flaticon_lyfconnect !important;
   font-style: normal;
   font-weight: normal !important;
   font-variant: normal;
@@ -143,4 +143,4 @@ i[class^=flaticon-]:before, i[class*=" flaticon-"]:before {
 
 .flaticon-paper-plane:before {
   content: "\f121";
-}/*# sourceMappingURL=flaticon_gowilds.css.map */
+}/*# sourceMappingURL=flaticon_lyfconnect.css.map */

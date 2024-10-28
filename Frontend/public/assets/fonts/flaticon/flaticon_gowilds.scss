@@ -1,16 +1,16 @@
-$flaticon_gowilds-font: "flaticon_gowilds";
+$flaticon_lyfconnect-font: "flaticon_lyfconnect";
 
 @font-face {
-    font-family: $flaticon_gowilds-font;
-    src: url("./flaticon_gowilds.ttf?d0235de0bbc7ec3e6bca4c8fddee355a") format("truetype"),
-url("./flaticon_gowilds.woff?d0235de0bbc7ec3e6bca4c8fddee355a") format("woff"),
-url("./flaticon_gowilds.woff2?d0235de0bbc7ec3e6bca4c8fddee355a") format("woff2"),
-url("./flaticon_gowilds.eot?d0235de0bbc7ec3e6bca4c8fddee355a#iefix") format("embedded-opentype"),
-url("./flaticon_gowilds.svg?d0235de0bbc7ec3e6bca4c8fddee355a#flaticon_gowilds") format("svg");
+    font-family: $flaticon_lyfconnect-font;
+    src: url("./flaticon_lyfconnect.ttf?d0235de0bbc7ec3e6bca4c8fddee355a") format("truetype"),
+url("./flaticon_lyfconnect.woff?d0235de0bbc7ec3e6bca4c8fddee355a") format("woff"),
+url("./flaticon_lyfconnect.woff2?d0235de0bbc7ec3e6bca4c8fddee355a") format("woff2"),
+url("./flaticon_lyfconnect.eot?d0235de0bbc7ec3e6bca4c8fddee355a#iefix") format("embedded-opentype"),
+url("./flaticon_lyfconnect.svg?d0235de0bbc7ec3e6bca4c8fddee355a#flaticon_lyfconnect") format("svg");
 }
 
 i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
-    font-family: flaticon_gowilds !important;
+    font-family: flaticon_lyfconnect !important;
     font-style: normal;
     font-weight: normal !important;
     font-variant: normal;
@@ -20,7 +20,7 @@ i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
     -moz-osx-font-smoothing: grayscale;
 }
 
-$flaticon_gowilds-map: (
+$flaticon_lyfconnect-map: (
     "helmet": "\f101",
     "best-price": "\f102",
     "travel": "\f103",
@@ -57,101 +57,101 @@ $flaticon_gowilds-map: (
 );
 
 .flaticon-helmet:before {
-    content: map-get($flaticon_gowilds-map, "helmet");
+    content: map-get($flaticon_lyfconnect-map, "helmet");
 }
 .flaticon-best-price:before {
-    content: map-get($flaticon_gowilds-map, "best-price");
+    content: map-get($flaticon_lyfconnect-map, "best-price");
 }
 .flaticon-travel:before {
-    content: map-get($flaticon_gowilds-map, "travel");
+    content: map-get($flaticon_lyfconnect-map, "travel");
 }
 .flaticon-right-quote:before {
-    content: map-get($flaticon_gowilds-map, "right-quote");
+    content: map-get($flaticon_lyfconnect-map, "right-quote");
 }
 .flaticon-flight:before {
-    content: map-get($flaticon_gowilds-map, "flight");
+    content: map-get($flaticon_lyfconnect-map, "flight");
 }
 .flaticon-camp:before {
-    content: map-get($flaticon_gowilds-map, "camp");
+    content: map-get($flaticon_lyfconnect-map, "camp");
 }
 .flaticon-blanket:before {
-    content: map-get($flaticon_gowilds-map, "blanket");
+    content: map-get($flaticon_lyfconnect-map, "blanket");
 }
 .flaticon-cat:before {
-    content: map-get($flaticon_gowilds-map, "cat");
+    content: map-get($flaticon_lyfconnect-map, "cat");
 }
 .flaticon-tent:before {
-    content: map-get($flaticon_gowilds-map, "tent");
+    content: map-get($flaticon_lyfconnect-map, "tent");
 }
 .flaticon-fire:before {
-    content: map-get($flaticon_gowilds-map, "fire");
+    content: map-get($flaticon_lyfconnect-map, "fire");
 }
 .flaticon-rabbit:before {
-    content: map-get($flaticon_gowilds-map, "rabbit");
+    content: map-get($flaticon_lyfconnect-map, "rabbit");
 }
 .flaticon-wifi-router:before {
-    content: map-get($flaticon_gowilds-map, "wifi-router");
+    content: map-get($flaticon_lyfconnect-map, "wifi-router");
 }
 .flaticon-solar-energy:before {
-    content: map-get($flaticon_gowilds-map, "solar-energy");
+    content: map-get($flaticon_lyfconnect-map, "solar-energy");
 }
 .flaticon-cycling:before {
-    content: map-get($flaticon_gowilds-map, "cycling");
+    content: map-get($flaticon_lyfconnect-map, "cycling");
 }
 .flaticon-fishing:before {
-    content: map-get($flaticon_gowilds-map, "fishing");
+    content: map-get($flaticon_lyfconnect-map, "fishing");
 }
 .flaticon-gym:before {
-    content: map-get($flaticon_gowilds-map, "gym");
+    content: map-get($flaticon_lyfconnect-map, "gym");
 }
 .flaticon-hiking:before {
-    content: map-get($flaticon_gowilds-map, "hiking");
+    content: map-get($flaticon_lyfconnect-map, "hiking");
 }
 .flaticon-tent-1:before {
-    content: map-get($flaticon_gowilds-map, "tent-1");
+    content: map-get($flaticon_lyfconnect-map, "tent-1");
 }
 .flaticon-reviews:before {
-    content: map-get($flaticon_gowilds-map, "reviews");
+    content: map-get($flaticon_lyfconnect-map, "reviews");
 }
 .flaticon-award:before {
-    content: map-get($flaticon_gowilds-map, "award");
+    content: map-get($flaticon_lyfconnect-map, "award");
 }
 .flaticon-quote:before {
-    content: map-get($flaticon_gowilds-map, "quote");
+    content: map-get($flaticon_lyfconnect-map, "quote");
 }
 .flaticon-camping:before {
-    content: map-get($flaticon_gowilds-map, "camping");
+    content: map-get($flaticon_lyfconnect-map, "camping");
 }
 .flaticon-cable-car:before {
-    content: map-get($flaticon_gowilds-map, "cable-car");
+    content: map-get($flaticon_lyfconnect-map, "cable-car");
 }
 .flaticon-trailer:before {
-    content: map-get($flaticon_gowilds-map, "trailer");
+    content: map-get($flaticon_lyfconnect-map, "trailer");
 }
 .flaticon-firewood:before {
-    content: map-get($flaticon_gowilds-map, "firewood");
+    content: map-get($flaticon_lyfconnect-map, "firewood");
 }
 .flaticon-biking-mountain:before {
-    content: map-get($flaticon_gowilds-map, "biking-mountain");
+    content: map-get($flaticon_lyfconnect-map, "biking-mountain");
 }
 .flaticon-fishing-1:before {
-    content: map-get($flaticon_gowilds-map, "fishing-1");
+    content: map-get($flaticon_lyfconnect-map, "fishing-1");
 }
 .flaticon-fishing-2:before {
-    content: map-get($flaticon_gowilds-map, "fishing-2");
+    content: map-get($flaticon_lyfconnect-map, "fishing-2");
 }
 .flaticon-caravan:before {
-    content: map-get($flaticon_gowilds-map, "caravan");
+    content: map-get($flaticon_lyfconnect-map, "caravan");
 }
 .flaticon-world:before {
-    content: map-get($flaticon_gowilds-map, "world");
+    content: map-get($flaticon_lyfconnect-map, "world");
 }
 .flaticon-journey:before {
-    content: map-get($flaticon_gowilds-map, "journey");
+    content: map-get($flaticon_lyfconnect-map, "journey");
 }
 .flaticon-gps:before {
-    content: map-get($flaticon_gowilds-map, "gps");
+    content: map-get($flaticon_lyfconnect-map, "gps");
 }
 .flaticon-paper-plane:before {
-    content: map-get($flaticon_gowilds-map, "paper-plane");
+    content: map-get($flaticon_lyfconnect-map, "paper-plane");
 }
