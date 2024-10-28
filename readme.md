@@ -32,7 +32,8 @@ Imagine a seamless travel experience. Planning a trip often feels overwhelming, 
 
 ## The Problem
 - The travelers experience stress while planning activities and desire personalized experiences but struggle with affordability.
-- Travelers spend hours researching, representing an opportunity for lyf to improve guest satisfaction and drive revenue.
+- Travelers spend hours 
+researching, representing an opportunity for lyf to improve guest satisfaction and drive revenue.
 
 ## Solution: lyf Travel Companion
 An app for lyf residents and guests that streamlines travel planning and supports lyf's revenue goals. Leveraging personalized data, it offers dynamic packages that boost engagement, occupancy, and revenue through optimized pricing.
